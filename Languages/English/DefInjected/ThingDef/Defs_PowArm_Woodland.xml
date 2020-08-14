@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WoodlandPowerArmorHelmet.label>marine helmet (Woodland)</WoodlandPowerArmorHelmet.label>
+  <WoodlandPowerArmorHelmet.description>A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines.\n\nThis armour version has a woodland camouflage pattern.</WoodlandPowerArmorHelmet.description>
+
+  <WoodlandPowerArmor.label>marine armor (Woodland)</WoodlandPowerArmor.label>
+  <WoodlandPowerArmor.description>A suit of light powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines.\n\nThis armour version has a woodland camouflage pattern.</WoodlandPowerArmor.description>
+
+
+</LanguageData>

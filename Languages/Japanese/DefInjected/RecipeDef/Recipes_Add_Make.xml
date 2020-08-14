@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Recipe Users: TableMachining, FabricationBench -->
+  <Make_ArcticPowerArmorHelmet.label>マリーンヘルメット（極地）を作る</Make_ArcticPowerArmorHelmet.label>
+  <Make_ArcticPowerArmorHelmet.description>マリーンヘルメット（極地）を作る。</Make_ArcticPowerArmorHelmet.description>
+  <Make_ArcticPowerArmorHelmet.jobString>マリーンヘルメット（極地）を製作中</Make_ArcticPowerArmorHelmet.jobString>
+  <Make_ArcticPowerArmor.label>マリーンアーマー（極地）を作る</Make_ArcticPowerArmor.label>
+  <Make_ArcticPowerArmor.description>マリーンアーマー（極地）を作る。</Make_ArcticPowerArmor.description>
+  <Make_ArcticPowerArmor.jobString>マリーンアーマー（極地）を製作中</Make_ArcticPowerArmor.jobString>
+  <Make_DesertPowerArmorHelmet.label>マリーンヘルメット（砂漠）を作る</Make_DesertPowerArmorHelmet.label>
+  <Make_DesertPowerArmorHelmet.description>マリーンヘルメット（砂漠）を作る。</Make_DesertPowerArmorHelmet.description>
+  <Make_DesertPowerArmorHelmet.jobString>マリーンヘルメット（砂漠）を製作中</Make_DesertPowerArmorHelmet.jobString>
+  <Make_DesertPowerArmor.label>マリーンアーマー（砂漠）を作る</Make_DesertPowerArmor.label>
+  <Make_DesertPowerArmor.description>マリーンアーマー（砂漠）を作る。</Make_DesertPowerArmor.description>
+  <Make_DesertPowerArmor.jobString>マリーンアーマー（砂漠）を製作中</Make_DesertPowerArmor.jobString>
+  <Make_JunglePowerArmorHelmet.label>マリーンヘルメット（密林）を作る</Make_JunglePowerArmorHelmet.label>
+  <Make_JunglePowerArmorHelmet.description>マリーンヘルメット（密林）を作る。</Make_JunglePowerArmorHelmet.description>
+  <Make_JunglePowerArmorHelmet.jobString>マリーンヘルメット（密林）を製作中</Make_JunglePowerArmorHelmet.jobString>
+  <Make_JunglePowerArmor.label>マリーンアーマー（密林）を作る</Make_JunglePowerArmor.label>
+  <Make_JunglePowerArmor.description>マリーンアーマー（密林）を作る。</Make_JunglePowerArmor.description>
+  <Make_JunglePowerArmor.jobString>マリーンアーマー（密林）を製作中</Make_JunglePowerArmor.jobString>
+  <Make_StonePowerArmorHelmet.label>マリーンヘルメット（岩場）を作る</Make_StonePowerArmorHelmet.label>
+  <Make_StonePowerArmorHelmet.description>マリーンヘルメット（岩場）を作る。</Make_StonePowerArmorHelmet.description>
+  <Make_StonePowerArmorHelmet.jobString>マリーンヘルメット（岩場）を製作中</Make_StonePowerArmorHelmet.jobString>
+  <Make_StonePowerArmor.label>マリーンアーマー（岩場）を作る</Make_StonePowerArmor.label>
+  <Make_StonePowerArmor.description>マリーンアーマー（岩場）を作る。</Make_StonePowerArmor.description>
+  <Make_StonePowerArmor.jobString>マリーンアーマー（岩場）を製作中</Make_StonePowerArmor.jobString>
+  <Make_UrbanPowerArmorHelmet.label>マリーンヘルメット（都市）を作る</Make_UrbanPowerArmorHelmet.label>
+  <Make_UrbanPowerArmorHelmet.description>マリーンヘルメット（都市）を作る。</Make_UrbanPowerArmorHelmet.description>
+  <Make_UrbanPowerArmorHelmet.jobString>マリーンヘルメット（都市）を製作中</Make_UrbanPowerArmorHelmet.jobString>
+  <Make_UrbanPowerArmor.label>マリーンアーマー（都市）を作る</Make_UrbanPowerArmor.label>
+  <Make_UrbanPowerArmor.description>マリーンアーマー（都市）を作る。</Make_UrbanPowerArmor.description>
+  <Make_UrbanPowerArmor.jobString>マリーンアーマー（都市）を製作中</Make_UrbanPowerArmor.jobString>
+  <Make_WoodlandPowerArmorHelmet.label>マリーンヘルメット（森林）を作る</Make_WoodlandPowerArmorHelmet.label>
+  <Make_WoodlandPowerArmorHelmet.description>マリーンヘルメット（森林）を作る。</Make_WoodlandPowerArmorHelmet.description>
+  <Make_WoodlandPowerArmorHelmet.jobString>マリーンヘルメット（森林）を製作中</Make_WoodlandPowerArmorHelmet.jobString>
+  <Make_WoodlandPowerArmor.label>マリーンアーマー（森林）を作る</Make_WoodlandPowerArmor.label>
+  <Make_WoodlandPowerArmor.description>マリーンアーマー（森林）を作る。</Make_WoodlandPowerArmor.description>
+  <Make_WoodlandPowerArmor.jobString>マリーンアーマー（森林）を製作中</Make_WoodlandPowerArmor.jobString>
+</LanguageData>

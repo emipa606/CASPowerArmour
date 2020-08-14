@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CASPowArmGloves.label>marine gloves</CASPowArmGloves.label>
+  <CASPowArmGloves.description>A pair of marine gloves with enhanced grip assistance and set of embedded recoil stabilisers.</CASPowArmGloves.description>
+
+  <CASPowArmGlovesArctic.label>marine gloves (Arctic)</CASPowArmGlovesArctic.label>
+  <CASPowArmGlovesArctic.description>A pair of marine gloves with enhanced grip assistance and set of embedded recoil stabilisers. These gloves have an arctic camo design.</CASPowArmGlovesArctic.description>
+
+  <CASPowArmGlovesDesert.label>marine gloves (Desert)</CASPowArmGlovesDesert.label>
+  <CASPowArmGlovesDesert.description>A pair of marine gloves with enhanced grip assistance and set of embedded recoil stabilisers. These gloves have a desert camo design.</CASPowArmGlovesDesert.description>
+
+  <CASPowArmGlovesJungle.label>marine gloves (Jungle)</CASPowArmGlovesJungle.label>
+  <CASPowArmGlovesJungle.description>A pair of marine gloves with enhanced grip assistance and set of embedded recoil stabilisers. These gloves have a jungle camo design.</CASPowArmGlovesJungle.description>
+
+  <CASPowArmGlovesStone.label>marine gloves (Stone)</CASPowArmGlovesStone.label>
+  <CASPowArmGlovesStone.description>A pair of marine gloves with enhanced grip assistance and set of embedded recoil stabilisers. These gloves have a stone camo design.</CASPowArmGlovesStone.description>
+
+  <CASPowArmGlovesUrban.label>marine gloves (Urban)</CASPowArmGlovesUrban.label>
+  <CASPowArmGlovesUrban.description>A pair of marine gloves with enhanced grip assistance and set of embedded recoil stabilisers. These gloves have an urban camo design.</CASPowArmGlovesUrban.description>
+
+  <CASPowArmGlovesWoodland.label>marine gloves (Woodland)</CASPowArmGlovesWoodland.label>
+  <CASPowArmGlovesWoodland.description>A pair of marine gloves with enhanced grip assistance and set of embedded recoil stabilisers. These gloves have an woodland camo design.</CASPowArmGlovesWoodland.description>
+
+
+</LanguageData>
