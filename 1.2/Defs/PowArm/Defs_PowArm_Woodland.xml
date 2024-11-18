@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="ArmorHelmetMakeableBase">
-    <defName>ArcticPowerArmorHelmet</defName>
-    <label>marine helmet (Arctic)</label>
-    <description>A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines.\n\nThis armour version has an arctic camouflage pattern.</description>
+    <defName>WoodlandPowerArmorHelmet</defName>
+    <label>marine helmet (Woodland)</label>
+    <description>A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines.\n\nThis armour version has a woodland camouflage pattern.</description>
     <techLevel>Spacer</techLevel>
     <recipeMaker>
       <unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
@@ -16,7 +16,7 @@
       </recipeUsers>
     </recipeMaker>
     <graphicData>
-      <texPath>Things/Item/PowArm/Arctic/Apparel/ArcticPowerArmorHelmet</texPath>
+      <texPath>Things/Item/PowArm/Woodland/Apparel/WoodlandPowerArmorHelmet</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <generateCommonality>1</generateCommonality>
@@ -40,12 +40,12 @@
       <bodyPartGroups>
         <li>FullHead</li>
       </bodyPartGroups>
-      <wornGraphicPath>Things/Item/PowArm/Arctic/Head/ArcticPowerArmorHelmet</wornGraphicPath>
+      <wornGraphicPath>Things/Item/PowArm/Woodland/Head/WoodlandPowerArmorHelmet</wornGraphicPath>
       <layers>
         <li>Overhead</li>
       </layers>
       <tags>
-        <li>PassiveCamo_Arctic_High</li>
+        <li>PassiveCamo_Woodland_High</li>
         <li>SpacerMilitary</li>
         <li>RoyalCombatGear</li>
       </tags>
@@ -70,9 +70,9 @@
     </comps>
   </ThingDef>
   <ThingDef ParentName="ArmorMachineableBase">
-    <defName>ArcticPowerArmor</defName>
-    <label>marine armor (Arctic)</label>
-    <description>A suit of light powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines.\n\nThis armour version has an arctic camouflage pattern.</description>
+    <defName>WoodlandPowerArmor</defName>
+    <label>marine armor (Woodland)</label>
+    <description>A suit of light powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines.\n\nThis armour version has a woodland camouflage pattern.</description>
     <techLevel>Spacer</techLevel>
     <recipeMaker>
       <unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
@@ -85,7 +85,7 @@
       </recipeUsers>
     </recipeMaker>
     <graphicData>
-      <texPath>Things/Item/PowArm/Arctic/Apparel/ArcticPowerArmor</texPath>
+      <texPath>Things/Item/PowArm/Woodland/Apparel/WoodlandPowerArmor</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <generateCommonality>1</generateCommonality>
@@ -120,13 +120,13 @@
         <li>Arms</li>
         <li>Legs</li>
       </bodyPartGroups>
-      <wornGraphicPath>Things/Item/PowArm/Arctic/Body/ArcticPowerArmor</wornGraphicPath>
+      <wornGraphicPath>Things/Item/PowArm/Woodland/Body/WoodlandPowerArmor</wornGraphicPath>
       <layers>
         <li>Middle</li>
         <li>Shell</li>
       </layers>
       <tags>
-        <li>PassiveCamo_Arctic_High</li>
+        <li>PassiveCamo_Woodland_High</li>
         <li>SpacerMilitary</li>
         <li>RoyalCombatGear</li>
       </tags>

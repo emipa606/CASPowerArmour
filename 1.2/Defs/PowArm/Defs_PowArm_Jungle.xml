@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="ArmorHelmetMakeableBase">
-    <defName>StonePowerArmorHelmet</defName>
-    <label>marine helmet (Stone)</label>
-    <description>A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines.\n\nThis armour version has a stone camouflage pattern.</description>
+    <defName>JunglePowerArmorHelmet</defName>
+    <label>marine helmet (Jungle)</label>
+    <description>A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines.\n\nThis armour version has a jungle camouflage pattern.</description>
     <techLevel>Spacer</techLevel>
     <recipeMaker>
       <unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
@@ -16,7 +16,7 @@
       </recipeUsers>
     </recipeMaker>
     <graphicData>
-      <texPath>Things/Item/PowArm/Stone/Apparel/StonePowerArmorHelmet</texPath>
+      <texPath>Things/Item/PowArm/Jungle/Apparel/JunglePowerArmorHelmet</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <generateCommonality>1</generateCommonality>
@@ -40,12 +40,12 @@
       <bodyPartGroups>
         <li>FullHead</li>
       </bodyPartGroups>
-      <wornGraphicPath>Things/Item/PowArm/Stone/Head/StonePowerArmorHelmet</wornGraphicPath>
+      <wornGraphicPath>Things/Item/PowArm/Jungle/Head/JunglePowerArmorHelmet</wornGraphicPath>
       <layers>
         <li>Overhead</li>
       </layers>
       <tags>
-        <li>PassiveCamo_Stone_High</li>
+        <li>PassiveCamo_Jungle_High</li>
         <li>SpacerMilitary</li>
         <li>RoyalCombatGear</li>
       </tags>
@@ -70,9 +70,9 @@
     </comps>
   </ThingDef>
   <ThingDef ParentName="ArmorMachineableBase">
-    <defName>StonePowerArmor</defName>
-    <label>marine armor (Stone)</label>
-    <description>A suit of light powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines.\n\nThis armour version has a stone camouflage pattern.</description>
+    <defName>JunglePowerArmor</defName>
+    <label>marine armor (Jungle)</label>
+    <description>A suit of light powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines.\n\nThis armour version has a jungle camouflage pattern.</description>
     <techLevel>Spacer</techLevel>
     <recipeMaker>
       <unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
@@ -85,7 +85,7 @@
       </recipeUsers>
     </recipeMaker>
     <graphicData>
-      <texPath>Things/Item/PowArm/Stone/Apparel/StonePowerArmor</texPath>
+      <texPath>Things/Item/PowArm/Jungle/Apparel/JunglePowerArmor</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <generateCommonality>1</generateCommonality>
@@ -120,13 +120,13 @@
         <li>Arms</li>
         <li>Legs</li>
       </bodyPartGroups>
-      <wornGraphicPath>Things/Item/PowArm/Stone/Body/StonePowerArmor</wornGraphicPath>
+      <wornGraphicPath>Things/Item/PowArm/Jungle/Body/JunglePowerArmor</wornGraphicPath>
       <layers>
         <li>Middle</li>
         <li>Shell</li>
       </layers>
       <tags>
-        <li>PassiveCamo_Stone_High</li>
+        <li>PassiveCamo_Jungle_High</li>
         <li>SpacerMilitary</li>
         <li>RoyalCombatGear</li>
       </tags>

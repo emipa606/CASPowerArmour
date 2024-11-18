@@ -1,5 +1,8 @@
 # Changelog for CASPowerArmour
 
+1.5.1 - Armors and helmets should now inherit properly, fixing SOS2 compatibility issue
+
+
 1.5.0 - Mod updated for 1.5 and passed autotests
 
 

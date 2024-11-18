@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ArmorHelmetMakeableBase">
+    <defName>StonePowerArmorHelmet</defName>
+    <label>marine helmet (Stone)</label>
+    <description>A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines.\n\nThis armour version has a stone camouflage pattern.</description>
+    <techLevel>Spacer</techLevel>
+    <recipeMaker>
+      <unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
+      <researchPrerequisite>PoweredArmor</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>9</Crafting>
+      </skillRequirements>
+      <recipeUsers Inherit="False">
+        <li>FabricationBench</li>
+      </recipeUsers>
+    </recipeMaker>
+    <graphicData>
+      <texPath>Things/Item/PowArm/Stone/Apparel/StonePowerArmorHelmet</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <generateCommonality>1</generateCommonality>
+    <statBases>
+      <WorkToMake>21500</WorkToMake>
+      <MaxHitPoints>160</MaxHitPoints>
+      <Mass>2.7</Mass>
+      <Flammability>0.4</Flammability>
+      <ArmorRating_Sharp>1.00</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.36</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.9</ArmorRating_Heat>
+      <Insulation_Cold>4</Insulation_Cold>
+      <Insulation_Heat>2</Insulation_Heat>
+      <EquipDelay>4</EquipDelay>
+    </statBases>
+    <costList>
+      <ComponentSpacer>1</ComponentSpacer>
+      <Plasteel>40</Plasteel>
+    </costList>
+    <apparel>
+      <bodyPartGroups>
+        <li>FullHead</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Item/PowArm/Stone/Head/StonePowerArmorHelmet</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>PassiveCamo_Stone_High</li>
+        <li>SpacerMilitary</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+      <useDeflectMetalEffect>true</useDeflectMetalEffect>
+    </apparel>
+    <thingSetMakerTags>
+      <li>RewardStandardHighFreq</li>
+    </thingSetMakerTags>
+    <thingCategories Inherit="false">
+      <li>CASHeadgear</li>
+    </thingCategories>
+    <tradeTags>
+      <li>HiTechArmor</li>
+    </tradeTags>
+    <comps>
+      <li Class="Observer.CompProperties_Observer">
+        <SightOffset>+0.05</SightOffset>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="ArmorMachineableBase">
+    <defName>StonePowerArmor</defName>
+    <label>marine armor (Stone)</label>
+    <description>A suit of light powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines.\n\nThis armour version has a stone camouflage pattern.</description>
+    <techLevel>Spacer</techLevel>
+    <recipeMaker>
+      <unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
+      <researchPrerequisite>PoweredArmor</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>9</Crafting>
+      </skillRequirements>
+      <recipeUsers Inherit="False">
+        <li>FabricationBench</li>
+      </recipeUsers>
+    </recipeMaker>
+    <graphicData>
+      <texPath>Things/Item/PowArm/Stone/Apparel/StonePowerArmor</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <generateCommonality>1</generateCommonality>
+    <statBases>
+      <WorkToMake>60500</WorkToMake>
+      <MaxHitPoints>340</MaxHitPoints>
+      <Mass>15</Mass>
+      <Flammability>0.4</Flammability>
+      <ArmorRating_Sharp>1.08</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.45</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.54</ArmorRating_Heat>
+      <Insulation_Cold>34</Insulation_Cold>
+      <Insulation_Heat>10</Insulation_Heat>
+      <EquipDelay>15</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>-0.4</MoveSpeed>
+    </equippedStatOffsets>
+    <thingCategories Inherit="false">
+      <li>CASApparel</li>
+    </thingCategories>
+    <costList>
+      <ComponentSpacer>4</ComponentSpacer>
+      <Plasteel>100</Plasteel>
+      <Uranium>20</Uranium>
+    </costList>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Neck</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+        <li>Legs</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Item/PowArm/Stone/Body/StonePowerArmor</wornGraphicPath>
+      <layers>
+        <li>Middle</li>
+        <li>Shell</li>
+      </layers>
+      <tags>
+        <li>PassiveCamo_Stone_High</li>
+        <li>SpacerMilitary</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+      <useDeflectMetalEffect>true</useDeflectMetalEffect>
+    </apparel>
+    <thingSetMakerTags>
+      <li>RewardStandardHighFreq</li>
+    </thingSetMakerTags>
+    <tradeTags>
+      <li>HiTechArmor</li>
+    </tradeTags>
+  </ThingDef>
+</Defs>

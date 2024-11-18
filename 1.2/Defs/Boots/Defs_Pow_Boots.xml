@@ -1,13 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <ThingDef ParentName="ApparelMakeableBase" Name="CASPowGlovesBase" Abstract="true">
-    <defName>CASPowArmGloves</defName>
-    <label>marine gloves</label>
-    <description>A pair of marine gloves with enhanced grip assistance and set of embedded recoil stabilisers.</description>
+  <ThingDef ParentName="ApparelMakeableBase" Name="CASPowBootsBase" Abstract="true">
+    <defName>CASPowerArmBoots</defName>
+    <label>marine boots</label>
+    <description>A pair of marine boots with layered plasteel plates and enhanced servomotors.</description>
     <techLevel>Spacer</techLevel>
     <tradeability>Sellable</tradeability>
     <generateCommonality>0.05</generateCommonality>
     <costList>
+      <Hyperweave>5</Hyperweave>
       <Plasteel>20</Plasteel>
       <ComponentSpacer>1</ComponentSpacer>
     </costList>
@@ -24,14 +25,14 @@
       <EquipDelay>2.5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-      <ShootingAccuracyPawn>0.05</ShootingAccuracyPawn>
+      <MoveSpeed>0.1</MoveSpeed>
     </equippedStatOffsets>
     <thingCategories Inherit="False">
-      <li>CASHandWear</li>
+      <li>CASFootWear</li>
     </thingCategories>
     <apparel>
       <bodyPartGroups>
-        <li>Hands</li>
+        <li>Feet</li>
       </bodyPartGroups>
       <layers>
         <li>Middle</li>
@@ -61,12 +62,12 @@
       <li>HiTechArmor</li>
     </tradeTags>
   </ThingDef>
-  <ThingDef ParentName="CASPowGlovesBase">
-    <defName>CASPowArmGlovesArctic</defName>
-    <label>marine gloves (Arctic)</label>
-    <description>A pair of marine gloves with enhanced grip assistance and set of embedded recoil stabilisers. These gloves have an arctic camo design.</description>
+  <ThingDef ParentName="CASPowBootsBase">
+    <defName>CASPowArmBootsArctic</defName>
+    <label>marine boots (Arctic)</label>
+    <description>A pair of marine boots with layered plasteel plates and enhanced servomotors. These boots have an arctic camouflage design.</description>
     <graphicData>
-      <texPath>Things/Item/CASHandwear/CASPowArmGlovesArctic</texPath>
+      <texPath>Things/Item/CASFootwear/CASPowArmBootsArctic</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <apparel>
@@ -75,12 +76,12 @@
       </tags>
     </apparel>
   </ThingDef>
-  <ThingDef ParentName="CASPowGlovesBase">
-    <defName>CASPowArmGlovesDesert</defName>
-    <label>marine gloves (Desert)</label>
-    <description>A pair of marine gloves with enhanced grip assistance and set of embedded recoil stabilisers. These gloves have a desert camo design.</description>
+  <ThingDef ParentName="CASPowBootsBase">
+    <defName>CASPowArmBootsDesert</defName>
+    <label>marine boots (Desert)</label>
+    <description>A pair of marine boots with layered plasteel plates and enhanced servomotors. These boots have a desert camouflage design.</description>
     <graphicData>
-      <texPath>Things/Item/CASHandwear/CASPowArmGlovesDesert</texPath>
+      <texPath>Things/Item/CASFootwear/CASPowArmBootsDesert</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <apparel>
@@ -89,12 +90,12 @@
       </tags>
     </apparel>
   </ThingDef>
-  <ThingDef ParentName="CASPowGlovesBase">
-    <defName>CASPowArmGlovesJungle</defName>
-    <label>marine gloves (Jungle)</label>
-    <description>A pair of marine gloves with enhanced grip assistance and set of embedded recoil stabilisers. These gloves have a jungle camo design.</description>
+  <ThingDef ParentName="CASPowBootsBase">
+    <defName>CASPowArmBootsJungle</defName>
+    <label>marine boots (Jungle)</label>
+    <description>A pair of marine boots with layered plasteel plates and enhanced servomotors. These boots have a jungle camouflage design.</description>
     <graphicData>
-      <texPath>Things/Item/CASHandwear/CASPowArmGlovesJungle</texPath>
+      <texPath>Things/Item/CASFootwear/CASPowArmBootsJungle</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <apparel>
@@ -103,12 +104,12 @@
       </tags>
     </apparel>
   </ThingDef>
-  <ThingDef ParentName="CASPowGlovesBase">
-    <defName>CASPowArmGlovesStone</defName>
-    <label>marine gloves (Stone)</label>
-    <description>A pair of marine gloves with enhanced grip assistance and set of embedded recoil stabilisers. These gloves have a stone camo design.</description>
+  <ThingDef ParentName="CASPowBootsBase">
+    <defName>CASPowArmBootsStone</defName>
+    <label>marine boots (Stone)</label>
+    <description>A pair of marine boots with layered plasteel plates and enhanced servomotors. These boots have a stone camouflage design.</description>
     <graphicData>
-      <texPath>Things/Item/CASHandwear/CASPowArmGlovesStone</texPath>
+      <texPath>Things/Item/CASFootwear/CASPowArmBootsStone</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <apparel>
@@ -117,13 +118,14 @@
       </tags>
     </apparel>
   </ThingDef>
-  <ThingDef ParentName="CASPowGlovesBase">
-    <defName>CASPowArmGlovesUrban</defName>
-    <label>marine gloves (Urban)</label>
-    <description>A pair of marine gloves with enhanced grip assistance and set of embedded recoil stabilisers. These gloves have an urban camo design.</description>
+  <ThingDef ParentName="CASPowBootsBase">
+    <defName>CASPowArmBootsUrban</defName>
+    <label>marine boots (Urban)</label>
+    <description>A pair of marine boots with layered plasteel plates and enhanced servomotors. These boots have an urban camouflage design.</description>
     <graphicData>
-      <texPath>Things/Item/CASHandwear/CASPowArmGlovesUrban</texPath>
+      <texPath>Things/Item/CASFootwear/CASPowArmBootsUrban</texPath>
       <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.2</drawSize>
     </graphicData>
     <apparel>
       <tags>
@@ -131,12 +133,12 @@
       </tags>
     </apparel>
   </ThingDef>
-  <ThingDef ParentName="CASPowGlovesBase">
-    <defName>CASPowArmGlovesWoodland</defName>
-    <label>marine gloves (Woodland)</label>
-    <description>A pair of marine gloves with enhanced grip assistance and set of embedded recoil stabilisers. These gloves have an woodland camo design.</description>
+  <ThingDef ParentName="CASPowBootsBase">
+    <defName>CASPowArmBootsWoodland</defName>
+    <label>marine boots (Woodland)</label>
+    <description>A pair of marine boots with layered plasteel plates and enhanced servomotors. These boots have a woodland camouflage design.</description>
     <graphicData>
-      <texPath>Things/Item/CASHandwear/CASPowArmGlovesWoodland</texPath>
+      <texPath>Things/Item/CASFootwear/CASPowArmBootsWoodland</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <apparel>
