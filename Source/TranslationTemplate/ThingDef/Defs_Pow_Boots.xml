@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: marine boots (Arctic) -->
+  <CASPowArmBootsArctic.label>marine boots (Arctic)</CASPowArmBootsArctic.label>
+  <!-- EN: A pair of marine boots with layered plasteel plates and enhanced servomotors. These boots have an arctic camouflage design. -->
+  <CASPowArmBootsArctic.description>A pair of marine boots with layered plasteel plates and enhanced servomotors. These boots have an arctic camouflage design.</CASPowArmBootsArctic.description>
+  <!-- EN: marine boots (Desert) -->
+  <CASPowArmBootsDesert.label>marine boots (Desert)</CASPowArmBootsDesert.label>
+  <!-- EN: A pair of marine boots with layered plasteel plates and enhanced servomotors. These boots have a desert camouflage design. -->
+  <CASPowArmBootsDesert.description>A pair of marine boots with layered plasteel plates and enhanced servomotors. These boots have a desert camouflage design.</CASPowArmBootsDesert.description>
+  <!-- EN: marine boots (Jungle) -->
+  <CASPowArmBootsJungle.label>marine boots (Jungle)</CASPowArmBootsJungle.label>
+  <!-- EN: A pair of marine boots with layered plasteel plates and enhanced servomotors. These boots have a jungle camouflage design. -->
+  <CASPowArmBootsJungle.description>A pair of marine boots with layered plasteel plates and enhanced servomotors. These boots have a jungle camouflage design.</CASPowArmBootsJungle.description>
+  <!-- EN: marine boots (Stone) -->
+  <CASPowArmBootsStone.label>marine boots (Stone)</CASPowArmBootsStone.label>
+  <!-- EN: A pair of marine boots with layered plasteel plates and enhanced servomotors. These boots have a stone camouflage design. -->
+  <CASPowArmBootsStone.description>A pair of marine boots with layered plasteel plates and enhanced servomotors. These boots have a stone camouflage design.</CASPowArmBootsStone.description>
+  <!-- EN: marine boots (Urban) -->
+  <CASPowArmBootsUrban.label>marine boots (Urban)</CASPowArmBootsUrban.label>
+  <!-- EN: A pair of marine boots with layered plasteel plates and enhanced servomotors. These boots have an urban camouflage design. -->
+  <CASPowArmBootsUrban.description>A pair of marine boots with layered plasteel plates and enhanced servomotors. These boots have an urban camouflage design.</CASPowArmBootsUrban.description>
+  <!-- EN: marine boots (Woodland) -->
+  <CASPowArmBootsWoodland.label>marine boots (Woodland)</CASPowArmBootsWoodland.label>
+  <!-- EN: A pair of marine boots with layered plasteel plates and enhanced servomotors. These boots have a woodland camouflage design. -->
+  <CASPowArmBootsWoodland.description>A pair of marine boots with layered plasteel plates and enhanced servomotors. These boots have a woodland camouflage design.</CASPowArmBootsWoodland.description>
+</LanguageData>

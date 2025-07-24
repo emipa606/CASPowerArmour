@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: marine armor (Stone) -->
+  <StonePowerArmor.label>marine armor (Stone)</StonePowerArmor.label>
+  <!-- EN: A suit of light powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines.\n\nThis armour version has an stone camouflage pattern. -->
+  <StonePowerArmor.description>A suit of light powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.
+
+Armor like this is often used by imperial janissaries and rapid-incursion space marines.
+
+This armour version has an stone camouflage pattern.</StonePowerArmor.description>
+  <!-- EN: marine helmet (Stone) -->
+  <StonePowerArmorHelmet.label>marine helmet (Stone)</StonePowerArmorHelmet.label>
+  <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines.\n\nThis armour version has an stone camouflage pattern. -->
+  <StonePowerArmorHelmet.description>A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.
+
+Armor like this is often used by imperial janissaries and rapid-incursion space marines.
+
+This armour version has an stone camouflage pattern.</StonePowerArmorHelmet.description>
+</LanguageData>

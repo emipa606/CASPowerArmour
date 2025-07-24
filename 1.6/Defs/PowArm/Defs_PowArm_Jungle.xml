@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ApparelArmorHelmetPowerCamoBase">
+    <defName>JunglePowerArmorHelmet</defName>
+    <label>marine helmet (Jungle)</label>
+    <description>A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines.\n\nThis armour version has a jungle camouflage pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/PowArm/Jungle/Apparel/JunglePowerArmorHelmet</texPath>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/Item/PowArm/Jungle/Head/JunglePowerArmorHelmet</wornGraphicPath>
+      <tags>
+        <li>PassiveCamo_Jungle_High</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorPowerBase">
+    <defName>JunglePowerArmor</defName>
+    <label>marine armor (Jungle)</label>
+    <description>A suit of light powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines.\n\nThis armour version has an jungle camouflage pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/PowArm/Jungle/Apparel/JunglePowerArmor</texPath>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/Item/PowArm/Jungle/Body/JunglePowerArmor</wornGraphicPath>
+      <tags>
+        <li>PassiveCamo_Jungle_High</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+</Defs>

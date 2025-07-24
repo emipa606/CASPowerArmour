@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: marine armor (Desert) -->
+  <DesertPowerArmor.label>marine armor (Desert)</DesertPowerArmor.label>
+  <!-- EN: A suit of light powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines.\n\nThis armour version has an desert camouflage pattern. -->
+  <DesertPowerArmor.description>A suit of light powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.
+
+Armor like this is often used by imperial janissaries and rapid-incursion space marines.
+
+This armour version has an desert camouflage pattern.</DesertPowerArmor.description>
+  <!-- EN: marine helmet (Desert) -->
+  <DesertPowerArmorHelmet.label>marine helmet (Desert)</DesertPowerArmorHelmet.label>
+  <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines.\n\nThis armour version has an desert camouflage pattern. -->
+  <DesertPowerArmorHelmet.description>A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.
+
+Armor like this is often used by imperial janissaries and rapid-incursion space marines.
+
+This armour version has an desert camouflage pattern.</DesertPowerArmorHelmet.description>
+</LanguageData>

@@ -2,7 +2,14 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "2",
-  "PreviewVersion": "1.5",
+  "PreviewVersion": "1.6",
   "SocialImageSet": true,
-  "SearchTags": " camouflage"
+  "SearchTags": " camouflage",
+  "Patches": false,
+  "Defs": true,
+  "Assemblies": false,
+  "LinesOfCode": 0,
+  "LinesOfXML": 23819,
+  "CodeBaseSize": 69,
+  "LastXmlCleaning": "2025-07-24T21:34:44.5106169+02:00"
 }
