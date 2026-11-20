@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <CASPowArmGloves.label>海军手套</CASPowArmGloves.label>
-  <CASPowArmGloves.description>一副具有增强抓握辅助功能的陆战队手套，配有嵌入式后坐力稳定器。</CASPowArmGloves.description>
   <CASPowArmGlovesArctic.label>海军手套（极地）</CASPowArmGlovesArctic.label>
   <CASPowArmGlovesArctic.description>一副具有增强抓握辅助功能的陆战队手套，配有嵌入式后坐力稳定器。这是带有极地迷彩的版本。</CASPowArmGlovesArctic.description>
   <CASPowArmGlovesDesert.label>海军手套（沙漠）</CASPowArmGlovesDesert.label>

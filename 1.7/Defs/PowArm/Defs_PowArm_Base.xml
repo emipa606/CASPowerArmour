@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ApparelArmorHelmetPowerBase" Name="ApparelArmorHelmetPowerCamoBase" Abstract="True">
+    <recipeMaker>
+      <skillRequirements>
+        <Crafting>9</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <generateCommonality>1</generateCommonality>
+    <statBases>
+      <WorkToMake>21500</WorkToMake>
+      <MaxHitPoints>160</MaxHitPoints>
+      <Mass>2.7</Mass>
+      <ArmorRating_Sharp>1.00</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.36</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.9</ArmorRating_Heat>
+    </statBases>
+    <apparel>
+      <tags>
+        <li>SpacerMilitary</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASHeadgear</li>
+    </thingCategories>
+    <comps>
+      <li Class="Observer.CompProperties_Observer">
+        <SightOffset>+0.05</SightOffset>
+      </li>
+    </comps>
+    <colorGenerator Class="ColorGenerator_Options" Inherit="False">
+      <options>
+        <li>
+          <weight>1</weight>
+          <only>(1,1,1)</only>
+        </li>
+      </options>
+    </colorGenerator>
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorPowerBase" Name="ApparelArmorPowerCamoBase" Abstract="True">
+    <recipeMaker>
+      <skillRequirements>
+        <Crafting>9</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <generateCommonality>1</generateCommonality>
+    <thingCategories Inherit="false">
+      <li>CASApparel</li>
+    </thingCategories>
+    <apparel>
+      <tags>
+        <li>SpacerMilitary</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+    </apparel>
+    <colorGenerator Class="ColorGenerator_Options" Inherit="False">
+      <options>
+        <li>
+          <weight>1</weight>
+          <only>(1,1,1)</only>
+        </li>
+      </options>
+    </colorGenerator>
+  </ThingDef>
+</Defs>

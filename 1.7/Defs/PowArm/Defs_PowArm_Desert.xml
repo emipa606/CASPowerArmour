@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ApparelArmorHelmetPowerCamoBase">
+    <defName>DesertPowerArmorHelmet</defName>
+    <label>marine helmet (Desert)</label>
+    <description>A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines.\n\nThis armour version has an desert camouflage pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/PowArm/Desert/Apparel/DesertPowerArmorHelmet</texPath>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/Item/PowArm/Desert/Head/DesertPowerArmorHelmet</wornGraphicPath>
+      <tags>
+        <li>PassiveCamo_Desert_High</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorPowerBase">
+    <defName>DesertPowerArmor</defName>
+    <label>marine armor (Desert)</label>
+    <description>A suit of light powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines.\n\nThis armour version has an desert camouflage pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/PowArm/Desert/Apparel/DesertPowerArmor</texPath>
+    </graphicData>
+    <apparel>
+      <wornGraphicPath>Things/Item/PowArm/Desert/Body/DesertPowerArmor</wornGraphicPath>
+      <tags>
+        <li>PassiveCamo_Desert_High</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+</Defs>

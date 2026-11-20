@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <CASPowerArmBoots.label>海军战靴</CASPowerArmBoots.label>
-  <CASPowerArmBoots.description>一双采用层叠塑钢装甲板并配有增强型伺服电机的陆战队战靴。</CASPowerArmBoots.description>
   <CASPowArmBootsArctic.label>海军战靴（极地）</CASPowArmBootsArctic.label>
   <CASPowArmBootsArctic.description>一双采用层叠塑钢装甲板并配有增强型伺服电机的陆战队战靴。这是带有极地迷彩的版本。</CASPowArmBootsArctic.description>
   <CASPowArmBootsDesert.label>海军战靴（沙漠）</CASPowArmBootsDesert.label>
